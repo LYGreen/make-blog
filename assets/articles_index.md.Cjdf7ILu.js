@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.zHGRsimp.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"articles"},"headers":[],"relativePath":"articles/index.md","filePath":"articles/index.md"}'),r={name:"articles/index.md"};function s(c,n,i,o,d,l){return a(),t("div")}const m=e(r,[["render",s]]);export{_ as __pageData,m as default};
