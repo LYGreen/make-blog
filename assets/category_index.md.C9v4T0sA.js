@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DEjn5Fri.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"category"},"headers":[],"relativePath":"category/index.md","filePath":"category/index.md"}'),o={name:"category/index.md"};function r(c,n,s,d,i,p){return a(),t("div")}const f=e(o,[["render",r]]);export{m as __pageData,f as default};
