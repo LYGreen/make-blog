@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.czCgNOEB.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"archive"},"headers":[],"relativePath":"archive/index.md","filePath":"archive/index.md"}'),r={name:"archive/index.md"};function c(n,i,o,s,d,p){return a(),t("div")}const f=e(r,[["render",c]]);export{m as __pageData,f as default};
